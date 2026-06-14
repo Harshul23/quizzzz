@@ -1,0 +1,6 @@
+{
+  "name": "Quiz & Performance Platform",
+  "description": "An interactive student quiz platform featuring direct Google Sheets reports, automated grading, granular dashboard analytics, and peer-to-peer performance comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
